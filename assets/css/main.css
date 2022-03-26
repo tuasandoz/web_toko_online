@@ -1,0 +1,57 @@
+/* untuk header */
+.main-nav {
+    background-color: #003566;
+}
+
+.main-nav .navbar-nav a.nav-link{
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.main-nav .navbar-nav .nav-link.active,.main-nav,.navbar-nav .nav-link :hover {
+    color: #ffbe0b;
+}
+
+.main-biru {
+    background-color: #003566;
+    color: #fff ;
+}
+
+.main-biru h2 span{
+    color: #ffbe0b;
+}
+.main-biru strong{
+    color: #ff006e;
+}
+h2.main-judul:after{
+    margin:auto;
+    margin-top: 20px;
+    display: block;
+    border-bottom: 10px solid #ffbe0b;
+    width: 100px;
+    border-radius: 25px
+    content: ;
+}
+#main-kolab img {
+    max-height: 100px;
+    max-width: 150px;
+
+}
+#main-kolab a{
+    display: inline-block;
+    word-spacing: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.navbar img.main-logo{
+    max-width: 100px;
+}
+.main-gray {
+    background-color:#e6dfdf;
+}
+#impresif{
+    background-color: #003566;
+    color: #e6dfdf;
+}
+
+
